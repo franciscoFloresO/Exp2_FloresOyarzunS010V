@@ -1,0 +1,87 @@
+
+.clase{
+    text-align: right;
+}
+
+#caja{
+  width: 300px;
+  border: 15px solid rgb(161, 211, 161);
+  padding: 20px;
+  margin: 20px;
+}
+
+.navbar{background-color: #059; }
+
+
+#logo{border-radius:75px}
+
+#patitas{margin-left: auto;}
+
+
+nav.navbar{background-color: #059 !important;}
+
+.bg-text
+{text-shadow: 0 0 10px #000;
+  font-family: 'Righteous', cursive;
+  box-shadow: 2px 4px 15px 0 #000;
+  background: rgba(0, 71, 129, 0.4);
+}
+
+.bk-footer{background-color: #059 !important;}
+
+.txtnav{font-family: 'Righteous', cursive;}
+
+.bk-con{background-color: #059;
+box-shadow: 2px 4px 15px 0 #000;}
+
+.footer-ltt{font-family: 'Righteous', cursive;
+color:#fefefe}
+
+.footer-contacto{color: #fefefe;}
+
+#linkFooter:link{color: #dd2 !important}
+
+#linkFooter:visited{color: #8f8f8f !important}
+
+.tarjeta{ box-shadow: 2px 4px 15px 0 #000 ;
+}
+
+.fotos-img{
+  width:  1000px; height: fit-content;
+}
+
+.flex-container{
+  flex-wrap: wrap;
+  }
+
+.flex-item{flex:1;
+  box-shadow: 2px 4px 15px 0 #000;
+  font-family: 'Righteous', cursive;
+  color: #fefefe;
+  text-align: center;  }
+
+.txt-gnral{color: #fefefe;
+text-align: center;
+font-family: 'Righteous', cursive;}
+
+.img-card{width:auto; height: auto;}
+
+#tit-pag{color: #fefefe;
+  text-align: center;
+  font-family: 'Righteous', cursive;}
+
+.txt-card{color:#059}
+
+.btn-primary:hover{color: #dd2;
+background-color: #0f0f0f;
+border-bottom: #dd2;}
+
+.info-vid{
+  display: flex;
+  flex-wrap: wrap;
+  padding: 40px 0 40px 0;
+  align-items: center;
+  flex-direction:column ;
+  text-align: center;
+
+}
